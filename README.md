@@ -12,11 +12,11 @@ Passionate Full Stack Developer with strong backend expertise, specializing in s
 
 ## ![Trophy](https://img.shields.io/badge/-GitHub%20Achievements-FFD700?style=flat-square&logo=github&logoColor=black) GitHub Achievements
 
-[![GitHub Streak](https://github-readme-streak-stats-beige-tau.vercel.app?user=Ingene555&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-beige-tau.vercel.app?user=Ingene555&theme=dark_lover)](https://git.io/streak-stats)
 
 ## ![Stats](https://img.shields.io/badge/-GitHub%20Stats-1E90FF?style=flat-square&logo=github&logoColor=white) GitHub Stats
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ingene555&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ingene555&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ![Tools](https://img.shields.io/badge/-Technical%20Skills%20%26%20Tools-F39C12?style=flat-square&logo=tools&logoColor=white) Technical Skills & Tools
 
