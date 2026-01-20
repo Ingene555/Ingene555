@@ -8,15 +8,15 @@ Passionate Full Stack Developer with strong backend expertise, specializing in s
 
 📍 Nicosia, Cyprus | 📧 <cledngoy@gmail.com> | 🔗 [LinkedIn](https://www.linkedin.com/in/cled-ngoy-061559228/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=TimotheeNkwar&label=Profile%20Views&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ingene555&label=Profile%20Views&color=blueviolet&style=flat-square)
 
 ## 🏆 GitHub Achievements
 
-[![GitHub Streak](https://github-readme-streak-stats-beige-tau.vercel.app?user=Timothee%20Nkwar&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-beige-tau.vercel.app?user=Ingene555&theme=merko)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimotheeNkwar&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ingene555&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔧 Technical Skills & Tools
 
