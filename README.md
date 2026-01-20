@@ -69,7 +69,7 @@ Coming soon! Currently focusing on skill development.
 
 ### Contribution Activity
 
-![github-snake](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake.svg)
+![github-snake](https://github.com/Ingene555/Ingene555/actions/output&github-contribution-grid-snake.svg)
 
 ### 📱 Connect With Me
 
