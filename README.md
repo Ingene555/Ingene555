@@ -12,7 +12,7 @@ Passionate Full Stack Developer with strong backend expertise, specializing in s
 
 ## 🏆 GitHub Achievements
 
-[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=Timothee%20Nkwar&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-beige-tau.vercel.app?user=Timothee%20Nkwar&theme=purple)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
