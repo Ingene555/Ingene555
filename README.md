@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Cled Kitenge
+# 👋 Hi, I'm Cled
 
-![Cled Kitenge - Full Stack Developer](https://github.com/Ingene555/Ingene555/blob/main/banner.jpg)
+![Cled - Full Stack Developer](https://github.com/Ingene555/Ingene555/blob/main/banner.jpg)
 
 ## Backend Expert | System Designer | Full Stack Developer
 
 Passionate Full Stack Developer with strong backend expertise, specializing in system design and scalable solutions. Experienced in building robust applications with **Python, Java, C#** and modern frameworks.
 
-![Location](https://img.shields.io/badge/-Nicosia%20Cyprus-E74C3C?style=flat-square&logo=googlemaps&logoColor=white) ![Email](https://img.shields.io/badge/-cledngoy@gmail.com-3498DB?style=flat-square&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cled-ngoy-061559228/)
+![Location](https://img.shields.io/badge/-Nicosia%20Cyprus-E74C3C?style=flat-square&logo=googlemaps&logoColor=white) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cled-ngoy-061559228/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ingene555&label=Profile%20Views&color=blueviolet&style=flat-square)
 
@@ -23,6 +23,13 @@ Passionate Full Stack Developer with strong backend expertise, specializing in s
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -30,18 +37,18 @@ Passionate Full Stack Developer with strong backend expertise, specializing in s
 
 ### ![List](https://img.shields.io/badge/-Full%20Skills%20List-9B59B6?style=flat-square) Full Skills List
 
-- **Languages**: Python • SQL • JavaScript • PHP • Java • C# • HTML • CSS
-- **Frontend**: HTML • CSS • JavaScript
-- **Backend**: Python • PHP • Java • C#
-- **Databases**: SQL • PostgreSQL
-- **Currently Learning**: React • Django • PostgreSQL • AI & Machine Learning
+- **Languages**: Python • SQL • JavaScript • TypeScript • PHP • Java • C# • HTML • CSS
+- **Frontend**: React • Next.js • HTML • CSS • JavaScript • TypeScript
+- **Backend**: Node.js • Django • Python • PHP • Java • C#
+- **Databases**: SQL • PostgreSQL • MongoDB
+- **Currently Learning**: Machine Learning • Cloud Computing
 
 ## ![Wrench](https://img.shields.io/badge/-Key%20Competencies-E67E22?style=flat-square) Key Competencies
 
-- Backend development expertise with Python, Java, and C#
+- Backend development expertise with Python, Java, C#, and Node.js
 - System design and architecture
-- Full Stack development (primary focus on backend)
-- Database design and optimization with SQL
+- Full Stack development with React, Next.js, and TypeScript
+- Database design and optimization with SQL, PostgreSQL, and MongoDB
 - Web development with HTML, CSS, and JavaScript
 
 ## ![Books](https://img.shields.io/badge/-Education-8E44AD?style=flat-square&logo=book&logoColor=white) Education
@@ -52,6 +59,7 @@ Passionate Full Stack Developer with strong backend expertise, specializing in s
 
 *More projects in my repositories – explore my work in backend development, system design, and full stack applications!*
 
+- **FleetArc** – Contributed as a full-stack developer to the creation of [fleetarc.team](https://fleetarc.team).
 - Coming soon...
 
 ## ![Certificate](https://img.shields.io/badge/-Certifications-FFD700?style=flat-square) Certifications
@@ -60,10 +68,8 @@ Coming soon! Currently focusing on skill development.
 
 ## ![Seedling](https://img.shields.io/badge/-Currently%20Learning-27AE60?style=flat-square) Currently Learning
 
-- React
-- Django
-- PostgreSQL
-- Artificial Intelligence & Machine Learning
+- Machine Learning
+- Cloud Computing
 
 ## ![Snake](https://img.shields.io/badge/-My%20Contributions-2ECC71?style=flat-square) My Contributions
 
@@ -76,7 +82,6 @@ Coming soon! Currently focusing on skill development.
 | Platform | Link |
 | ---------- | ------ |
 | ![Briefcase](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | [linkedin.com/in/cled-ngoy-061559228](https://www.linkedin.com/in/cled-ngoy-061559228/) |
-| ![Mail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white) | [cledngoy@gmail.com](mailto:cledngoy@gmail.com) |
 
 ---
 
