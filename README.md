@@ -1,90 +1,118 @@
-# 👋 Hi, I'm Ingene
+<div align="center">
 
-![Ingene - Full Stack Developer](https://github.com/Ingene555/Ingene555/blob/main/banner.jpg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Ingene&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20ML%20Engineer%20%7C%20System%20Designer%20%7C%20Full%20Stack&descAlignY=60&descSize=18" alt="header" />
 
-## Backend Expert | System Designer | Full Stack Developer
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Backend+Expert;Machine+Learning+Engineer;System+Designer;Full+Stack+Developer;Web+%7C+Mobile+%7C+Desktop+Apps" alt="Typing SVG" />
+</a>
 
-Passionate Full Stack Developer with strong backend expertise, specializing in system design and scalable solutions. Experienced in building robust applications with **Python, Java, C#** and modern frameworks.
+<br/>
 
-![Location](https://img.shields.io/badge/-Nicosia%20Cyprus-E74C3C?style=flat-square&logo=googlemaps&logoColor=white) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cled-ngoy-061559228/)
+![Location](https://img.shields.io/badge/-Nicosia,%20Cyprus-E74C3C?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cled-ngoy-061559228/)
+[![Website](https://img.shields.io/badge/-ingene.xyz-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ingene.xyz)
+[![Apps](https://img.shields.io/badge/-apps.ingene.xyz-8B5CF6?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://apps.ingene.xyz)
+[![Me](https://img.shields.io/badge/-me.ingene.xyz-F59E0B?style=for-the-badge&logo=about.me&logoColor=white)](https://me.ingene.xyz)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ingene555&label=Profile%20Views&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ingene555&label=Profile%20Views&color=2c5364&style=flat-square)
 
-## ![Trophy](https://img.shields.io/badge/-GitHub%20Achievements-FFD700?style=flat-square&logo=github&logoColor=black) GitHub Achievements
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats-beige-tau.vercel.app?user=Ingene555&theme=dark_lover)](https://git.io/streak-stats)
+---
 
-## ![Stats](https://img.shields.io/badge/-GitHub%20Stats-1E90FF?style=flat-square&logo=github&logoColor=white) GitHub Stats
+## 👨‍💻 About Me
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ingene555&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Full Stack Developer with strong **backend** expertise, **Machine Learning Engineer**, and system designer building scalable, secure solutions. I build **web apps, mobile apps and desktop apps** with **Python, Java, C#** and modern frameworks.
 
-## ![Tools](https://img.shields.io/badge/-Technical%20Skills%20%26%20Tools-F39C12?style=flat-square&logo=tools&logoColor=white) Technical Skills & Tools
+- 🔭 Building products at [ingene.xyz](https://ingene.xyz) and [apps.ingene.xyz](https://apps.ingene.xyz)
+- 🔐 Dev and member of the security team at [Mvutano](https://mvutano.com)
+- 🧠 Machine Learning: completed my training, now working as an ML Engineer
+- ☁️ Currently learning: **Cloud Computing**
+- 🎓 B.Sc. – Cyprus International University
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34C26?style=flat&logo=html5&logoColor=white)
+---
 
-### ![List](https://img.shields.io/badge/-Full%20Skills%20List-9B59B6?style=flat-square) Full Skills List
+## 🛠️ What I Do
+
+| | |
+| --- | --- |
+| 🌐 **Web Apps** | Full stack applications with React, Next.js, Django, Node.js |
+| 📱 **Mobile Apps** | Cross-platform and native mobile applications |
+| 🖥️ **Desktop Apps** | Desktop software with C#, Java and Python |
+| ⚙️ **Backend & APIs** | System design, architecture, scalable services |
+| 🗄️ **Databases** | Design and optimization with SQL, PostgreSQL, MongoDB |
+| 🤖 **Machine Learning** | Model development and ML engineering |
+| 🔐 **Security** | Securing production platforms and applications |
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,js,ts,php,html,css&theme=dark" alt="languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,dotnet&theme=dark" alt="frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,vscode&theme=dark" alt="tools" />
+
+</div>
+
+<details>
+<summary><b>📋 Full skills list</b></summary>
 
 - **Languages**: Python • SQL • JavaScript • TypeScript • PHP • Java • C# • HTML • CSS
 - **Frontend**: React • Next.js • HTML • CSS • JavaScript • TypeScript
 - **Backend**: Node.js • Django • Python • PHP • Java • C#
+- **Mobile & Desktop**: Mobile apps • Desktop apps
 - **Databases**: SQL • PostgreSQL • MongoDB
-- **Currently Learning**: Machine Learning • Cloud Computing
+- **AI / ML**: Machine Learning
+- **Security**: Application and platform security
+- **Learning**: Cloud Computing
 
-## ![Wrench](https://img.shields.io/badge/-Key%20Competencies-E67E22?style=flat-square) Key Competencies
-
-- Backend development expertise with Python, Java, C#, and Node.js
-- System design and architecture
-- Full Stack development with React, Next.js, and TypeScript
-- Database design and optimization with SQL, PostgreSQL, and MongoDB
-- Web development with HTML, CSS, and JavaScript
-
-## ![Books](https://img.shields.io/badge/-Education-8E44AD?style=flat-square&logo=book&logoColor=white) Education
-
-- **Bachelor of Science** – Cyprus International University (Nicosia, Cyprus)
-
-## ![Rocket](https://img.shields.io/badge/-Featured%20Projects-FF6B6B?style=flat-square) Featured Projects
-
-*More projects in my repositories – explore my work in backend development, system design, and full stack applications!*
-
-- **FleetArc** – Contributed as a full-stack developer to the creation of [fleetarc.team](https://fleetarc.team).
-- Coming soon...
-
-## ![Certificate](https://img.shields.io/badge/-Certifications-FFD700?style=flat-square) Certifications
-
-Coming soon! Currently focusing on skill development.
-
-## ![Seedling](https://img.shields.io/badge/-Currently%20Learning-27AE60?style=flat-square) Currently Learning
-
-- Machine Learning
-- Cloud Computing
-
-## ![Snake](https://img.shields.io/badge/-My%20Contributions-2ECC71?style=flat-square) My Contributions
-
-### Contribution Activity
-
-![github-snake](https://raw.githubusercontent.com/Ingene555/Ingene555/main/dist/github-snake.svg)
-
-### ![Phone](https://img.shields.io/badge/-Connect%20With%20Me-34495E?style=flat-square) Connect With Me
-
-| Platform | Link |
-| ---------- | ------ |
-| ![Briefcase](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | [linkedin.com/in/cled-ngoy-061559228](https://www.linkedin.com/in/cled-ngoy-061559228/) |
+</details>
 
 ---
 
-### ![Star](https://img.shields.io/badge/-Support%20My%20Work-FFD700?style=flat-square) Support My Work
+## 🚀 Featured Work
 
-If you find my projects valuable, consider **starring** my repositories! Your support motivates me to create more innovative solutions. Thanks for visiting! ![Rocket](https://img.shields.io/badge/-Thanks%20for%20visiting-FF6B6B?style=flat-square)
+| Project | Role | Link |
+| --- | --- | --- |
+| **Mvutano** | Developer & security team member | [mvutano.com](https://mvutano.com) |
+| **FleetArc** | Full-stack developer | [fleetarc.team](https://fleetarc.team) |
+| **Apps** | My own apps and tools | [apps.ingene.xyz](https://apps.ingene.xyz) |
+| **Portfolio** | Personal website | [ingene.xyz](https://ingene.xyz) · [me.ingene.xyz](https://me.ingene.xyz) |
+
+*More projects in my [repositories](https://github.com/Ingene555?tab=repositories).*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ingene555&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ingene555&theme=rogue&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![github-snake](https://raw.githubusercontent.com/Ingene555/Ingene555/main/dist/github-snake.svg)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cled-ngoy-061559228/)
+[![ingene.xyz](https://img.shields.io/badge/-ingene.xyz-2DD4BF?style=flat-square)](https://ingene.xyz)
+[![apps.ingene.xyz](https://img.shields.io/badge/-apps.ingene.xyz-8B5CF6?style=flat-square)](https://apps.ingene.xyz)
+[![me.ingene.xyz](https://img.shields.io/badge/-me.ingene.xyz-F59E0B?style=flat-square)](https://me.ingene.xyz)
+[![mvutano.com](https://img.shields.io/badge/-mvutano.com-E74C3C?style=flat-square)](https://mvutano.com)
+
+<div align="center">
+
+⭐ If you find my projects valuable, consider **starring** my repositories. Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
+
+</div>
